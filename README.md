@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @WilliamAbie
-- 👀 I’m interested in Coding, front-end and back-end web, etc.
-- 🌱 I’m currently learning on University Technology of Yogyakarta
+# Hello, I'm Will! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!---
-WilliamAbie/WilliamAbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">About Me</h2>
+
+👀 I am interested in Coding, especially on Android Apps!\
+🌱 I am currently learning on Universitas Teknologi Yogyakarta (Technology University of Yogyakarta)!\
+🤝🏻 I am still inexperienced, but if you want to i am open to collaborating with everyone! 
+
+
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+<a href="https://github.com/WilliamAbie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WilliamAbie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WilliamAbie&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
